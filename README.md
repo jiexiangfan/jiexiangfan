@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello there 👋
 
-> I am Jie (Jay), a final year software engineering student 👨‍🎓 at Monash University, Australia 🇦🇺. I am a full stack developer with experience in MERN stack and React Native. I am also interested in cloud computing and platform engineering.
+> I am Jie (Jay), a final year software engineering student 👨‍🎓 at Monash University, Australia 🇦🇺. I am a full stack developer experienced in MERN stack and React Native. I am also interested in cloud computing and platform engineering.
 
 🎆 Throughout my years in university, I have done a few projects:
 
