@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 🎆 Throughout my years in university, I have done a few projects:
 
-- [Researchify](https://github.com/Researchify/Researchify.git): A profile builder for researchers (`MERN stack`, `AWS`) - System Architect & Full Stack Developer
+- Researchify: A profile builder for researchers (`MERN stack`, `AWS`) - System Architect & Full Stack Developer
 - DreamWalk Test Helper: Cross-platform application that smoothen user acceptance test (`React Native`, `Heroku`) - Project Manager & Frontend Developer
 - [edJourney](https://devpost.com/software/ed-journey): A 1st place project of Melbourne Hack hackathon, an online platform that guides users with self-learning (`MERN stack`) - Frontend Developer
 
