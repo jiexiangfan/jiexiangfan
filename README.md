@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ### Hello there 👋
 
-> I am Jie (Jay), a final year software engineering student 👨‍🎓 at Monash University, Australia 🇦🇺. I am a full stack developer experienced in MERN stack and React Native. I am also interested in cloud computing and platform engineering.
+> I'm a Monash University graduate with a strong foundation in software engineering and development. As a passionate software practitioner, I have honed my skills in full-stack development, particularly with the MERN stack, and have hands-on experience with AWS, Golang, and Python. My interests extend to cloud platform engineering and natural language processing. I'm always keen to expand my knowledge and take on new challenges in the ever-evolving tech landscape.
 
 🎆 Throughout my years in university, I have done a few projects:
 
