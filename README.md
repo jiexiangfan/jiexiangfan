@@ -23,7 +23,7 @@ As a research assistant at Monash University, I apply my software engineering an
 
 - [edJourney](https://devpost.com/software/ed-journey): A 1st place project of Melbourne Hack hackathon, an online platform that guides users with self-learning (`MERN stack`) - Frontend Developer
 - Researchify: A profile builder for researchers (`MERN stack`, `AWS`) - System Architect & Full Stack Developer
-- Motive Metrics: A Jira application prototype to improve requirements engineering activities (`Jira`, `Atlassian Forge`, `React`, `ChartJS`) - Researcher, Full Stack Developer
+- [Motive Metrics](https://ieeexplore.ieee.org/abstract/document/10197107): A Jira application prototype to improve requirements engineering activities (`Jira`, `Atlassian Forge`, `React`, `ChartJS`) - Researcher, Full Stack Developer
 - and working on some other personal projects....
 
 🌱 During my own time, I’m currently learning:
