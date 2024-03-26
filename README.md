@@ -26,7 +26,7 @@ As a research assistant at Monash University, I apply my software engineering an
 - [Motive Metrics](https://ieeexplore.ieee.org/abstract/document/10197107): A Jira application prototype to improve requirements engineering activities (`Jira`, `Atlassian Forge`, `React`, `ChartJS`) - Researcher, Full Stack Developer
 - and working on some other personal projects....
 
-🌱 During my own time, I’m currently learning:
+🌱 During my own time, I’m now learning:
 
 - AWS
 - Golang
