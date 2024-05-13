@@ -13,24 +13,29 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello there 👋
+## Hello there 👋 I am Jay...
 
-I graduated from Monash University with a Bachelor of Engineering (Honours) in Software Engineering end of last year, where I received the Monash International Merit Scholarship and won the first place in Melbourne Hack 2022. I have a strong foundation in full-stack development, especially with the MERN stack, and have hands-on experience in designing and deploying user-friendly applications on cloud platforms. I am passionate about learning new skills and taking on new challenges in the ever-evolving tech landscape, especially in full-stack development, solution architecture, and cloud computing.
+I graduated from Monash University as a Software Engineer in 2023. I have experience in full-stack development, especially with the MERN stack, and have hands-on experience in designing and deploying user-friendly applications on cloud platforms. I am passionate about learning new skills and taking on new challenges in the ever-evolving tech landscape, especially in full-stack development, solution architecture, and cloud computing.
 
-As a research assistant at Monash University, I apply my software engineering and full-stack development skills to support research projects in the fields of human-centred design, cloud computing and AI. I utilised technologies such as UI/UX, AWS, Node.js, and React and collaborated with researchers and stakeholders from diverse backgrounds and sectors.
+As a research assistant at Monash University, I apply my software engineering and full-stack development skills to support research projects in human-centred design, cloud computing, and AI. I utilise technologies such as UI/UX, AWS, Node.js, and React and collaborate with researchers and stakeholders from diverse backgrounds and sectors.
 
-🎆 Throughout my years in university, I have done a few projects:
+### 🔭 I’m currently working on ...
+- [ProductivitiBili](https://chromewebstore.google.com/detail/productivitibili-hide-bil/kbeeegjjikobknoihlpjmebhcolfmdoj): Chrome extension that hides feeds and recommendations on Bilibili, an video streaming platform in Asia, to minimise distraction.
+- [table-get-column](https://www.npmjs.com/package/table-get-column): Simple npm package to get columns data from xlsx files.
+- and other personal projects...
+
+
+### 🎆 Throughout my years in university, I have done a few projects...
 
 - [edJourney](https://devpost.com/software/ed-journey): A 1st place project of Melbourne Hack hackathon, an online platform that guides users with self-learning (`MERN stack`) - Frontend Developer
 - Researchify: A profile builder for researchers (`MERN stack`, `AWS`) - System Architect & Full Stack Developer
 - [Motive Metrics](https://ieeexplore.ieee.org/abstract/document/10197107): A Jira application prototype to improve requirements engineering activities (`Jira`, `Atlassian Forge`, `React`, `ChartJS`) - Researcher, Full Stack Developer
-- and working on some other personal projects....
 
-🌱 During my own time, I’m now learning:
+
+### 🌱 During my own time, I’m now learning:
 
 - AWS
 - Golang
-- Machine Learning
 
 Feel free to drop me a chat if you are in the same journey 😬
 
@@ -52,7 +57,7 @@ Feel free to drop me a chat if you are in the same journey 😬
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </p>
 
-## Technologies/skills I have experience before:
+## Technologies/skills I have used before:
 
 <p align="left"> 
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
