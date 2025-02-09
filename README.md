@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hello there 👋 I am Jay...
 
-I graduated from Monash University as a Software Engineer in 2023. I have experience in full-stack development, especially with the MERN stack, and have hands-on experience in designing and deploying user-friendly applications on cloud platforms. I am passionate about learning new skills and taking on new challenges in the ever-evolving tech landscape, especially in full-stack development, solution architecture, and cloud computing.
+I am a Junior Software Engineer with experience in full-stack development, especially with the MERN stack. Other than hands-on experience in designing and deploying user-friendly applications on cloud platforms. I am passionate about learning new skills and taking on new challenges in the ever-evolving tech landscape, especially in full-stack development, solution architecture, and cloud computing.
 
 As a research assistant at Monash University, I apply my software engineering and full-stack development skills to support research projects in human-centred design, cloud computing, and AI. I utilise technologies such as UI/UX, AWS, Node.js, and React and collaborate with researchers and stakeholders from diverse backgrounds and sectors.
 
