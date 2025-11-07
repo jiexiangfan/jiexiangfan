@@ -1,86 +1,86 @@
-<!--
-**jiexiangfan/jiexiangfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello there 👋 I'm Jay
 
-Here are some ideas to get you started:
+I'm a **Software Engineer** specializing in full-stack development and cloud computing, currently pursuing a **Master of Information Technology (Artificial Intelligence)** at the University of Melbourne. I build connected systems across web, mobile, and backend platforms, with hands-on experience turning ideas into scalable, production-ready solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm doing now
 
-## Hello there 👋 I am Jay...
+**Software Engineer @ Enroute Tech** (Jul 2025 - Present)
+- Building modern management ecosystems connecting web, mobile, and backend systems using Vue.js, PHP, and Flutter/Dart
+- Introduced analytics dashboards that reduced reporting time by 40% and enabled data-driven decision-making
+- Refactored legacy APIs, increasing user adoption by 300% and expanding partnerships to 5 companies
 
-I am a Junior Software Engineer with experience in full-stack development, especially with the MERN stack. Other than hands-on experience in designing and deploying user-friendly applications on cloud platforms. I am passionate about learning new skills and taking on new challenges in the ever-evolving tech landscape, especially in full-stack development, solution architecture, and cloud computing.
+**Cloud Engineer @ RMIT AWS RACE Hub** (May 2025 - Present)
+- Supporting high-performance computing workloads on AWS-based cloud platform
+- Documenting HPC workflows and best practices for research teams
 
-As a research assistant at Monash University, I apply my software engineering and full-stack development skills to support research projects in human-centred design, cloud computing, and AI. I utilise technologies such as UI/UX, AWS, Node.js, and React and collaborate with researchers and stakeholders from diverse backgrounds and sectors.
+**IT Support Officer (Tier 2 SME) @ Monash University** (May 2024 - Present)
+- Providing technical guidance and on-site support during critical examination periods
 
-### 🔭 I’m currently working on ...
-- [ProductivitiBili](https://chromewebstore.google.com/detail/productivitibili-hide-bil/kbeeegjjikobknoihlpjmebhcolfmdoj): Chrome extension that hides feeds and recommendations on Bilibili, an video streaming platform in Asia, to minimise distraction.
-- [table-get-column](https://www.npmjs.com/package/table-get-column): Simple npm package to get columns data from xlsx files.
-- and other personal projects...
+### 🔭 Current Projects
 
+- **[ProductiBili](https://chromewebstore.google.com/detail/productivitibili-hide-bil/kbeeegjjikobknoihlpjmebhcolfmdoj)** - Chrome extension creating distraction-free viewing on Bilibili (1,000+ users)
+- **[table-get-column](https://www.npmjs.com/package/table-get-column)** - NPM package for extracting columns from Excel files
+- **Personal Portfolio** - Modern React + TypeScript portfolio with dark/light theme ([Live Site](https://jiexiangfan.com))
 
-### 🎆 Throughout my years in university, I have done a few projects...
+### 🎆 Past Projects
 
-- [edJourney](https://devpost.com/software/ed-journey): A 1st place project of Melbourne Hack hackathon, an online platform that guides users with self-learning (`MERN stack`) - Frontend Developer
-- Researchify: A profile builder for researchers (`MERN stack`, `AWS`) - System Architect & Full Stack Developer
-- [Motive Metrics](https://ieeexplore.ieee.org/abstract/document/10197107): A Jira application prototype to improve requirements engineering activities (`Jira`, `Atlassian Forge`, `React`, `ChartJS`) - Researcher, Full Stack Developer
+- **[edJourney](https://devpost.com/software/ed-journey)** - 🏆 1st Place @ Melbourne Hack 2022 - Self-learning platform built in 48 hours (MERN stack)
+- **Research Analytics Platform** @ Monash CoLAM - Near real-time teamwork analytics system boosting efficiency by 80%
+- **[Motive Metrics](https://ieeexplore.ieee.org/abstract/document/10197107)** - Jira application for requirements engineering (Published in IEEE)
+- **NER Model** @ Stay or Go - BERT-based model achieving 85% precision for banking data extraction
 
+### 🌱 Tech Stack
 
-### 🌱 During my own time, I’m now learning:
+**Currently Building With:**
+```
+Languages:    JavaScript/TypeScript, PHP, Python, Dart
+Frontend:     React, Vue.js, Flutter, Tailwind CSS
+Backend:      Node.js, Express, PHP
+Cloud:        AWS (EC2, S3, Lambda, RACE HPC), Firebase
+Databases:    MongoDB, MySQL, PostgreSQL
+Tools:        Git, Docker, Vite, WebSocket, SLURM
+```
 
-- AWS
-- Golang
+**Previously Worked With:**
+```
+Languages:    Go, Java, Swift, C, Bash
+Frameworks:   Next.js, React Native, Redux
+Cloud:        Azure, Kubernetes
+Data:         Cassandra, MATLAB
+Design:       Figma, Bootstrap, Chart.js
+```
 
-Feel free to drop me a chat if you are in the same journey 😬
+### 💡 What I'm Learning
 
-## Reach me or connect with me on:
+- 🤖 AI/ML Engineering - Deepening knowledge through my Master's program
+- ☁️ Advanced Cloud Architecture - Hands-on with AWS HPC and serverless
+- 📊 Real-time Analytics - Building dashboards and data pipelines
+- 🚀 Performance Optimization - Scaling systems for growth
+
+### 🌏 Beyond Code
+
+- 🤝 Active volunteer in student events and community tutoring programs
+- 🗣️ Passionate about cross-cultural exchange and language learning
+- 🎓 Former Marketing Officer @ MUMSU, increased engagement by 50%
+- 🌟 Event volunteer coordinating music festivals and student activities
+
+### 📫 Let's Connect
+
+I'm always excited to collaborate on interesting projects or discuss tech, cloud computing, and AI!
 
 <p align="left">
-<a href="https://linkedin.com/in/jiexiangfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin icon" height="30" width="40" /></a>
-<a href="mailto:jxiangfan@gmail.com" target="blank"><img align="center" alt="Gmail icon (2020)" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" height="30" width="40"/></a>
+<a href="https://my-portfolio-jie1.web.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+<a href="https://linkedin.com/in/jiexiangfan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://github.com/jiexiangfan" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
+<a href="mailto:jxiangfan@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
 </p>
 
-## Technologies/skills I am actively using now:
+---
 
-<p align="left"> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<p align="center">
+  <i>💼 Open to exciting opportunities in software engineering, cloud computing, and AI/ML</i>
 </p>
 
-## Technologies/skills I have used before:
-
-<p align="left"> 
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
-<a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> 
-<a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-<a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
-<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
-<a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-<a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
-<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jiexiangfan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
-
-<!-- <p style="text-align:center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jiexiangfan&show_icons=true&locale=en&layout=compact" alt="jiexiangfan" /></p> -->
