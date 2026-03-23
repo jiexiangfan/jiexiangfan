@@ -1,68 +1,68 @@
 ## Hello there 👋 I'm Jay
 
-I'm a **Software Engineer** specializing in full-stack development and cloud computing, currently pursuing a **Master of Information Technology (Artificial Intelligence)** at the University of Melbourne. I build connected systems across web, mobile, and backend platforms, with hands-on experience turning ideas into scalable, production-ready solutions.
+I'm a **Software Engineer** specialising in full-stack development, currently pursuing a **Master of Information Technology (Artificial Intelligence)** at the University of Melbourne. I build connected systems across web, mobile, and backend platforms, with hands-on experience turning ideas into scalable, production-ready solutions.
 
 ### 🚀 What I'm doing now
 
-**Software Engineer @ Enroute Tech** (Jul 2025 - Present)
-- Building modern management ecosystems connecting web, mobile, and backend systems using Vue.js, PHP, and Flutter/Dart
-- Introduced analytics dashboards that reduced reporting time by 40% and enabled data-driven decision-making
-- Refactored legacy APIs, increasing user adoption by 300% and expanding partnerships to 5 companies
+**Software Engineer @ Enroute Tech** (Jun 2025 – Present)
+- Building a cross-platform management ecosystem connecting web, mobile, and backend systems using Vue.js, Next.js, PHP, and Flutter/Dart
+- Increased successful manufacturer claim rates from 30% to 80% by implementing a reporting and time tracking system that automated warranty documentation workflows
+- Refactored legacy APIs to improve platform stability and scalability, expanding client partnerships to 3 companies
 
-**Cloud Engineer @ RMIT AWS RACE Hub** (May 2025 - Present)
-- Supporting high-performance computing workloads on AWS-based cloud platform
-- Documenting HPC workflows and best practices for research teams
+**Teaching Associate @ Monash University** (Feb 2026 – Present)
+- Teaching FIT2099 Object-Oriented Design & Implementation, a core unit in the Software Engineering and Computer Science programs
+- Facilitating weekly lab sessions and marking assignments, helping students build strong foundations in OOP, design patterns, and Java
 
-**IT Support Officer (Tier 2 SME) @ Monash University** (May 2024 - Present)
-- Providing technical guidance and on-site support during critical examination periods
+**IT Support Officer (Tier 2 SME) @ Monash University** (May 2024 – Present)
+- Providing technical guidance and escalation support to Tier 1 officers during critical examination periods
+- Diagnosing and resolving issues under time-critical conditions where system reliability directly affects student outcomes
 
 ### 🔭 Current Projects
 
-- **[ProductiBili](https://chromewebstore.google.com/detail/productivitibili-hide-bil/kbeeegjjikobknoihlpjmebhcolfmdoj)** - Chrome extension creating distraction-free viewing on Bilibili (1,000+ users)
-- **[table-get-column](https://www.npmjs.com/package/table-get-column)** - NPM package for extracting columns from Excel files
+- **[ProductiBili](https://chromewebstore.google.com/detail/productivitibili-hide-bil/kbeeegjjikobknoihlpjmebhcolfmdoj)** - Chrome extension creating a distraction-free viewing experience on Bilibili (1,000+ users)
 - **Personal Portfolio** - Modern React + TypeScript portfolio with dark/light theme ([Live Site](https://jiexiangfan.com))
 
 ### 🎆 Past Projects
 
-- **[edJourney](https://devpost.com/software/ed-journey)** - 🏆 1st Place @ Melbourne Hack 2022 - Self-learning platform built in 48 hours (MERN stack)
-- **Research Analytics Platform** @ Monash CoLAM - Near real-time teamwork analytics system boosting efficiency by 80%
-- **[Motive Metrics](https://ieeexplore.ieee.org/abstract/document/10197107)** - Jira application for requirements engineering (Published in IEEE)
-- **NER Model** @ Stay or Go - BERT-based model achieving 85% precision for banking data extraction
+- **[edJourney](https://devpost.com/software/ed-journey)** - 🏆 1st Place @ Melbourne Hack 2022 – Self-learning platform built in 48 hours (MERN stack)
+- **Research Analytics Platform** @ Monash CoLAM – Near real-time teamwork analytics system, improving efficiency by 80% and cutting infrastructure costs by 60%
+- **[Motive Metrics](https://ieeexplore.ieee.org/abstract/document/10197107)** – Jira application for requirements engineering (Published in IEEE)
+- **NER Model** @ Stay or Go – BERT-based model achieving 85% precision for identifying promotional offers from banking websites
 
 ### 🌱 Tech Stack
 
 **Currently Building With:**
 ```
 Languages:    JavaScript/TypeScript, PHP, Python, Dart
-Frontend:     React, Vue.js, Flutter, Tailwind CSS
+Frontend:     React, Vue.js, Next.js, Flutter, Tailwind CSS
 Backend:      Node.js, Express, PHP
-Cloud:        AWS (EC2, S3, Lambda, RACE HPC), Firebase
+Cloud:        GCP, AWS, Firebase
 Databases:    MongoDB, MySQL, PostgreSQL
-Tools:        Git, Docker, Vite, WebSocket, SLURM
+Tools:        Git, Docker, GitHub Actions, WebSocket, Vite
 ```
 
 **Previously Worked With:**
 ```
-Languages:    Go, Java, Swift, C, Bash
-Frameworks:   Next.js, React Native, Redux
+Languages:    Go, Java, Haskell, Swift, C, Bash
+Frameworks:   React Native, Redux
 Cloud:        Azure, Kubernetes
-Data:         Cassandra, MATLAB
+Data:         Cassandra, MATLAB, BeautifulSoup
 Design:       Figma, Bootstrap, Chart.js
 ```
 
 ### 💡 What I'm Learning
 
-- 🤖 AI/ML Engineering - Deepening knowledge through my Master's program
-- ☁️ Advanced Cloud Architecture - Hands-on with AWS HPC and serverless
-- 📊 Real-time Analytics - Building dashboards and data pipelines
-- 🚀 Performance Optimization - Scaling systems for growth
+- 🤖 AI/ML Engineering – Deepening knowledge through my Master's specialisation in AI
+- 📐 Software Design – Teaching OOP and design patterns has sharpened how I think about system architecture
+- 📊 Real-time Analytics – Building dashboards and data pipelines
+- 🚀 Performance Optimisation – Scaling systems for growth
 
 ### 🌏 Beyond Code
 
-- 🤝 Active volunteer in student events and community tutoring programs
+- 🤝 Active volunteer in community tutoring programs, including tutoring newly arrived migrants and refugees
 - 🗣️ Passionate about cross-cultural exchange and language learning
-- 🎓 Former Marketing Officer @ MUMSU, increased engagement by 50%
-- 🌟 Event volunteer coordinating music festivals and student activities
+- 🎓 Former Marketing Officer @ MUMSU, increased Discord engagement by 50%
+- 🌟 Event volunteer coordinating music festivals and student activities at Monash
 
 ### 📫 Let's Connect
 
