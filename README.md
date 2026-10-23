@@ -1,86 +1,75 @@
 ## Hello there 👋 I'm Jay
 
-I'm a **Software Engineer** specialising in full-stack development, currently pursuing a **Master of Information Technology (Artificial Intelligence)** at the University of Melbourne. I build connected systems across web, mobile, and backend platforms, with hands-on experience turning ideas into scalable, production-ready solutions.
+I'm a **Software Engineer** based in Melbourne, with experience building web, mobile and backend systems across automotive technology, fintech and university research.
+
+I completed a **Master of Information Technology specialising in Artificial Intelligence** at the University of Melbourne in July 2026. I currently teach Java and object oriented design at Monash University while strengthening my backend and cloud engineering skills.
 
 ### 🚀 What I'm doing now
 
-**Software Engineer @ Enroute Tech** (Jun 2025 – Present)
-- Building a cross-platform management ecosystem connecting web, mobile, and backend systems using Vue.js, Next.js, PHP, and Flutter/Dart
-- Increased successful manufacturer claim rates from 30% to 80% by implementing a reporting and time tracking system that automated warranty documentation workflows
-- Refactored legacy APIs to improve platform stability and scalability, expanding client partnerships to 3 companies
-
 **Teaching Associate @ Monash University** (Feb 2026 – Present)
-- Teaching FIT2099 Object-Oriented Design & Implementation, a core unit in the Software Engineering and Computer Science programs
-- Facilitating weekly lab sessions and marking assignments, helping students build strong foundations in OOP, design patterns, and Java
+- Teaching FIT2099 Object Oriented Design and Implementation, covering Java, object oriented programming and design patterns
+- Facilitating practical sessions and assessing coursework, helping students develop sound software design and implementation skills
 
-**IT Support Officer (Tier 2 SME) @ Monash University** (May 2024 – Present)
-- Providing technical guidance and escalation support to Tier 1 officers during critical examination periods
-- Diagnosing and resolving issues under time-critical conditions where system reliability directly affects student outcomes
+**IT Support Officer @ Monash University** (May 2024 – Present)
+- Providing technical guidance and escalation support during university examination periods
+- Diagnosing hardware, software and connectivity issues while communicating clearly with students and staff
 
-### 🔭 Current Projects
+### 💼 Previous engineering experience
 
-- **[ProductiBili](https://chromewebstore.google.com/detail/productivitibili-hide-bil/kbeeegjjikobknoihlpjmebhcolfmdoj)** - Chrome extension creating a distraction-free viewing experience on Bilibili (1,000+ users)
-- **Personal Portfolio** - Modern React + TypeScript portfolio with dark/light theme ([Live Site](https://jiexiangfan.com))
+**Software Engineer @ Enroute Tech** (Jul 2025 – Jun 2026)
+- Developed and maintained a workforce management platform using Vue.js, Next.js, PHP and Flutter, contributing to backend services, web interfaces and mobile features
+- Automated warranty evidence collection, time tracking and PDF reporting, helping increase manufacturer claim approval rates from approximately 30% to approximately 80%
+- Supported rollout across three client organisations by stabilising legacy APIs and improving operational workflows and user interfaces
+- Contributed to API design, database modelling, deployment and production monitoring on Google Cloud Platform
 
-### 🎆 Past Projects
+**Software Engineer Intern @ Stay or Go** (Nov 2024 – Feb 2025)
+- Built data extraction and processing pipelines for banking product information from financial websites
+- Developed and fine tuned a BERT based named entity recognition prototype to identify promotional offers
 
-- **[edJourney](https://devpost.com/software/ed-journey)** - 🏆 1st Place @ Melbourne Hack 2022 – Self-learning platform built in 48 hours (MERN stack)
-- **Research Analytics Platform** @ Monash CoLAM – Near real-time teamwork analytics system, improving efficiency by 80% and cutting infrastructure costs by 60%
-- **[Motive Metrics](https://ieeexplore.ieee.org/abstract/document/10197107)** – Jira application for requirements engineering (Published in IEEE)
-- **NER Model** @ Stay or Go – BERT-based model achieving 85% precision for identifying promotional offers from banking websites
+**Research Assistant @ Monash University** (Oct 2023 – Mar 2025)
+- Developed an activity monitoring system using React, Node.js and WebSocket in collaboration with researchers and stakeholders
+- Built a Java application to automate data collection and transfer between research systems
+- Integrated Fitbit devices into the research data collection environment
 
-### 🌱 Tech Stack
+### 🔭 Selected projects
 
-**Currently Building With:**
+- **[ProductiBili](https://github.com/jiexiangfan/ProductiBili)** — A Chrome extension that reduces distractions on Bilibili. [Chrome Web Store](https://chromewebstore.google.com/detail/productivitibili-hide-bil/kbeeegjjikobknoihlpjmebhcolfmdoj)
+- **[Personal Portfolio](https://jiexiangfan.com/)** — A React and TypeScript portfolio showcasing my experience and projects, with light and dark themes
+- **[edJourney](https://devpost.com/software/ed-journey)** — A collaborative learning platform built with the MERN stack in a team of three within 48 hours, winning first place and a special prize at Melbourne Hack 2022
+- **[Teamwork Analytics Dashboard](https://github.com/Teamwork-Analytics/teamwork-visualiser-dashboard)** — Research software for collecting, analysing and visualising teamwork activity
+
+### 🌱 Technologies I've worked with
+
+```text
+Languages:       TypeScript, JavaScript, Java, Python, PHP, Dart, SQL
+Web:             React, Vue.js, Next.js, Node.js, Express, Tailwind CSS
+Mobile:          Flutter
+Cloud:           Google Cloud Platform, Firebase
+Databases:       MySQL, MongoDB, PostgreSQL
+Tools:           Git, GitHub Actions, Vite
+Data processing: Beautiful Soup, BERT, named entity recognition
 ```
-Languages:    JavaScript/TypeScript, PHP, Python, Dart
-Frontend:     React, Vue.js, Next.js, Flutter, Tailwind CSS
-Backend:      Node.js, Express, PHP
-Cloud:        GCP, AWS, Firebase
-Databases:    MongoDB, MySQL, PostgreSQL
-Tools:        Git, Docker, GitHub Actions, WebSocket, Vite
-```
 
-**Previously Worked With:**
-```
-Languages:    Go, Java, Haskell, Swift, C, Bash
-Frameworks:   React Native, Redux
-Cloud:        Azure, Kubernetes
-Data:         Cassandra, MATLAB, BeautifulSoup
-Design:       Figma, Bootstrap, Chart.js
-```
+### 💡 What I'm learning
 
-### 💡 What I'm Learning
+- ☁️ **Cloud engineering** — Strengthening AWS fundamentals and my understanding of cloud architecture
+- ⚙️ **Backend engineering** — Deepening my knowledge of API design, databases and reliable services
+- 📐 **System design** — Exploring architecture, scalability and engineering tradeoffs
+- 🤖 **Applied AI** — Exploring how machine learning and language models can support practical software products
 
-- 🤖 AI/ML Engineering – Deepening knowledge through my Master's specialisation in AI
-- 📐 Software Design – Teaching OOP and design patterns has sharpened how I think about system architecture
-- 📊 Real-time Analytics – Building dashboards and data pipelines
-- 🚀 Performance Optimisation – Scaling systems for growth
+### 🌏 Beyond code
 
-### 🌏 Beyond Code
+- 🤝 Previously volunteered as an AMEP tutor supporting newly arrived migrants and refugees
+- 🗣️ Interested in language learning and cross cultural exchange
+- 🎓 Former Marketing Officer at the Monash University Malaysian Students' Union
+- 🌟 Previously supported student events and campus activities through the Monash Student Association
 
-- 🤝 Active volunteer in community tutoring programs, including tutoring newly arrived migrants and refugees
-- 🗣️ Passionate about cross-cultural exchange and language learning
-- 🎓 Former Marketing Officer @ MUMSU, increased Discord engagement by 50%
-- 🌟 Event volunteer coordinating music festivals and student activities at Monash
+### 📫 Let's connect
 
-### 📫 Let's Connect
-
-I'm always excited to collaborate on interesting projects or discuss tech, cloud computing, and AI!
+I'm seeking **software engineering opportunities in Melbourne or remote roles within Australia**, particularly in full stack development, backend services and cloud delivery.
 
 <p align="left">
-<a href="https://my-portfolio-jie1.web.app" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
-<a href="https://linkedin.com/in/jiexiangfan" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
-<a href="https://github.com/jiexiangfan" target="_blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
-<a href="mailto:jxiangfan@gmail.com" target="_blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
-</p>
-
----
-
-<p align="center">
-  <i>💼 Open to exciting opportunities in software engineering, cloud computing, and AI/ML</i>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jiexiangfan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+<a href="https://jiexiangfan.com/" target="_blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/jiexiangfan/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:jxiangfan@gmail.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
